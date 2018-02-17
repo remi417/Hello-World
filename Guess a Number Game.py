@@ -1,6 +1,5 @@
 import random
 computerinput=random.randint(0, 10)
-#print(computerinput)
 userinput=11 #because userinput cannot equal computerinput below
 print(userinput)
 while userinput!=computerinput:
